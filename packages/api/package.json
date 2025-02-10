@@ -1,7 +1,7 @@
 {
 	"name": "api",
 	"version": "0.0.1",
-	"description": "API for MBDS 2024 project",
+	"description": "API for MBDS 2025 project",
 	"main": "index.js",
 	"license": "MIT",
 	"private": true,

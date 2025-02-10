@@ -1,7 +1,7 @@
-# 2024 MBDS project PixelBoard
+# 2025 MBDS project PixelBoard
 
 ## Introduction
-this is a mono-repo project for the 2024 MBDS project PixelBoard. It contains the following packages:
+this is a mono-repo project for the 2025 MBDS project PixelBoard. It contains the following packages:
 - `client`: the frontend of the project
 - `api`: the backend of the project
 
